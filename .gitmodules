@@ -1,0 +1,3 @@
+[submodule "strapi-v4"]
+	path = strapi-v4
+	url = https://github.com/strapi/strapi.git
